@@ -102,6 +102,7 @@ body{
    filter: grayscale(100%); 
 }
 
+
 .btn-color{
     background: var(--mainColor);
 }
