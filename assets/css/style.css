@@ -230,6 +230,10 @@ header .hero__title{
 .footer__section{
     background-color: var(--secondaryColor);
 }
+
+.footer__section .apps__store .app-img{
+    width: 10%;
+}
 /* ========================== 
     End footer  Section
 ============================ */
