@@ -224,6 +224,17 @@ header .hero__title{
 ============================ */
 
 
+/* ========================== 
+    Start footer  Section
+============================ */
+.footer__section{
+    background-color: var(--secondaryColor);
+}
+/* ========================== 
+    End footer  Section
+============================ */
+
+
 
 /* ========================== 
  Responsive  Media Queries
