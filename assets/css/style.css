@@ -112,6 +112,14 @@ body{
 }
 
 
+button:focus{
+    outline: none !important;
+}
+
+.btn-login{
+    background-color: var(--mainColor);
+}
+
 
 /* ========================== 
     Start Header Section
