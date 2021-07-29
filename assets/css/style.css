@@ -188,8 +188,29 @@ header .hero__title{
 	display: block;
 	margin: 0 auto;
 }
+
+
 /* ========================== 
     End Frequently asked question Client Section
+============================ */
+
+.sport__bike__section{
+    
+    background: linear-gradient(to right, #FDF6F0, #F9F9F9); 
+}
+
+
+/* ========================== 
+    Start latest news  Section
+============================ */
+
+.latest__information__section{
+    background-color: #DBE6FD;
+}
+
+
+/* ========================== 
+    End latest news  Section
 ============================ */
 
 
@@ -206,5 +227,7 @@ header .hero__title{
       
     }
 }
+
+
 @media only screen and (max-width: 768px) {}
 @media only screen and (max-width: 1024px) {}
